@@ -1,7 +1,7 @@
 # Project Title: Delivery Schedule Dashboard
 
 Description:
-The delivery schedule dashboard is a dynamic reporting solution that was designed to deliver insights to logistic operations. It provides a clear interactive overview of delivery times, order status, categories, and country of shipping to enable stakeholders to monitor performances and make future decisions.
+The delivery schedule dashboard is a dynamic reporting solution that was designed to deliver insights to logistic operations. It provides a clear interactive overview of delivery times, order status, categories, and country of shipping to enable stakeholders to monitor performances and make future decisions. Using Microsoft Excel, Python scripts and CSV files, I was able to prepare the data and load it into power BI.
 
 Business Problem:
 The business had an absence of a devlivery schedule and inventory management system making it very difficult to monitor purchase orders and track delivery timelines. Using memory and emails to track these was very inefficient because it limits accuracy and slows decision making for future purchase orders.
