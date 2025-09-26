@@ -28,6 +28,10 @@ Regional Comparisons:
 
 # Executive Summary:
 ## Overview of report:
+The delivery schedule shows the Month over Month (MoM) purchase cost growth of 0.07%, and the (MoM) individual orders growth of 0.05%.
+Due to a drop in sales of warehouse stock between April and June there was a surplus in some items meaning less stock was ordered. However, as business slowly picked up again, there was a gradual increase in items ordered into the warehouse to potentially preventing items running out of stock.
+
+<img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
 
 # Tech Stack:
