@@ -2,52 +2,78 @@
 
 
 ## Project Overview:
-Fireaway Pizza stores all stock in the warehouse, and distribute to franchisees across the UK every week. All stock is ordered to the warehouse, pallets are built by warehouse staff to fufil orders from francisees, and they are delivered by company drivers to various routes throughout the week.
+The company stores stock in their warehouse and distribute it to franchisees across the UK. All stock is ordered from external suppliers and stored in the warehouse. Pallets are then assembled to complete franchisee orders, which are delivered by company drivers to the stores throughout the week.
 
-The delivery schedule dashboard is a dynamic reporting solution that was designed to deliver insights on stock deliveries to the warehouse. It provides a clear interactive overview of products, stock delivery times, order status, categories, and country of shipping to enable the manager and managing director to monitor performances and make future purchase orders.
+The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, delivery times, purchase costs, and more, enabling the logistics manager and managing director to monitor performance and make data-driven purchases.
 
 ### Business Problem:
-The company had an absence of a devlivery schedule and inventory management system making it very difficult to monitor purchase orders and track delivery timelines. Using memory and emails to track these, it was very inefficient because it limits accuracy and slows decision making.
+The company lacked a devlivery schedule and management system, making it very difficult to track purchase orders and delivery timelines. Relying on memory and emails to track and backlog orders was inefficient, limited accuracy, and slowed decision making.
 
 ### Goal:
-The projects starts by collecting raw data using Microsoft Excel, and transforms it into actionable insights through visualizations and data modelling in Power BI. The dashboard enables the stakeholders and logistics manager to view key metrics and make data-driven decisions. It is aimed to collect accurate data.
-
+This project collects raw data in Microsoft Excel and transforms it into actionable insights through visualizations and data modeling in Power BI. The dashboard summarizes key metrics and allows stakeholders to monitor deliveries, purchase costs, and order activity to improve planning and purchasing decisions.
 
 ## Data Structure Overview:
-The delivery Schedule's data structure is showed below. A simple diagram showing the columns and data types of the main fact table, the unique fact sheets and how they relate. Prior to beginning the analysis, the data was checked and cleaned using Microft Excel, Python scripts and Power Query.
+### The delivery Schedule's data model is showed below. It highlights:
+- The main fact table with its columns and data types
+- Relationships to supporting tables
+- Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
 
 <img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
 
 
 ## Executive Summary:
-Key Performance Indicators show the total purchase cost and shows how the cost was distributed monthly using a simpe line graph. It also uses a map feature to show the location the stock is purchased from. There are also tooltips included so when the map is hovered above, you can see the sum of orders and the total purchase cost per country.
+Key Performance Indicators (KPIs) track total purchase costs and their monthly distribution through a simple line graph. A map visual identifies supplier locations, with interactive tooltips showing total orders and purchase costs per country.
 
-The schedule shows the Month over Month (MoM) purchase cost growth of 0.07%, and the (MoM) individual orders growth of 0.05%. Due to a drop in sales in the business during the summer, there was a quiet period in warehouse. However, as business slowly picked up again, there was a gradual increase in items ordered from the warehouse from franchisees. To prevent items running out of stock in the warehouse, there was a rise in purchase orders to compensate diminished stock.
+### Highlights:
+- Month-over-Month (MoM) Purchase Cost Growth: +0.07%
+- MoM Orders Growth: +0.05%
+
+During the summer, a dip in sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to prevent stock shortages.
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
 
 ## Recommendations:
-- Supplier Page:
-Shows information on the page based on the supplier slicer. The dashboard showed information about the supplier Minster Foods. They supply most of the toppings at very good quality. The pie chart shows how the total purchase cost split across the items sources from minster. The bar graph is used to shows the number of pallets ordered by each ofproducts across each month. The table visualizes information that may be needed for analysis. 
+### Supplier Page:
+- Displays Minster insights using a slicer filter
+  
+- The pie chart shows the share of total purchase cost by product
+  
+- The bar chart highlights monthly pallet orders by product
+  
+- The table provides detailed information for further analysis
 
-- Category Page:
-The category Page shows the page on chilled products. It uses KPI cards to show the sum of purchase costs for all chilled products, the number of orders and which ones were late or on time. This can be very useful when considering storage spaces and orders. The line and bar chart shows the monthly performance on the products by orders and purchase cost.
+
+### Category Page:
+- Focuses on the category chilled products
+  
+- KPI cards summarize purchase costs, total orders, & late/on-time deliveries
+  
+- The line and bar chart tracks monthly trends using orders and purchase costs
+
 
 ## Tech Stack:
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following tools:
 
-Microsoft Excel- Microsoft Excel was used to collect the data initially. Creating dropdown lists for Products, Country of Shipping, Category and more using unique function. It made it so those data can have a value everytime. Calculations were added to determine "Order Late?" and "Days Over?" to add further clarity into the Purchase Orders
+- Microsoft Excel: Initial data collection, drop-down lists for Products, Country, Category, etc, and calculated columns for “Order Late?” and "Number of Days Over?”
+  
+- Python: Data cleaning and extraction of unique tables into separate CSV files for analysis
+  
+- Power BI Desktop: Main platform for data visualization and reporting
 
-Python- Pthon was used to clean data and extract unique tables from the general dataset into separate CSV files for analysis
+- Power Query: Data transformation and preparation
 
-Power BI Desktop- The main visualization platform used to publish the report
+- DAX (Data Analysis Expressions): Creation of KPIs and dynamic filters
 
-Power Query- Used within Power BI for the data transformation and cleaning
-
-DAX (Data Analysis Expression)- Used to create calculated measures for KPIs and dynamic filters
-
-Data Modelling- Used within Power BI to establish relationships between tables for accurate filtering
+- Data Modeling: Establishing relationships between tables for accurate filtering
 
 
-Personal Note:
+## Personal Note:
+- This was a simple visualization project based on data collected during my role as a Logistics Assistant.
+  
+- At the time, I was new to the role and saw Excel as an efficient way to store and organize delivery data.
+  
+- As I gathered more data, I gradually added new features to improve analysis.
+  
+- The dataset covers a short time period, so the report is limited in historical depth but demonstrates core reporting capabilities.
+
