@@ -29,7 +29,7 @@ Key Performance Indicators (KPIs) track total purchase costs and their monthly d
 - Month-over-Month (MoM) Purchase Cost Growth: +0.07%
 - MoM Orders Growth: +0.05%
 
-During the summer, a dip in sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to replinish warehouse stock.
+During the summer, a dip in company sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to replinish warehouse stock.
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
@@ -56,7 +56,7 @@ During the summer, a dip in sales caused a temporary slowdown in warehouse activ
 ## Tech Stack:
 The dashboard was built using the following tools:
 
-- Microsoft Excel: Initial data collection, drop-down lists for Products, Country, Category, etc, and calculated columns for “Order Late?” and "Number of Days Over?”
+- Microsoft Excel: Used for initial data collection
   
 - Python: Data cleaning and extraction of unique tables into separate CSV files for analysis
   
