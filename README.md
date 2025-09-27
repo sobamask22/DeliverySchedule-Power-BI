@@ -25,7 +25,8 @@ Regional Comparisons:
 # Data Structure Overview:
 The delivery Schedule's data structure is showed below. A simple diagram showing the columns of the main fact table, the unique fact sheets derived from it and how they relate to each other.
 
-<img width="1010" height="694" alt="image" src="https://github.com/user-attachments/assets/4a463db1-a16a-4d62-ae75-5de9fcf5da5f" />
+<img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
+
 
 Prior to beginning the analysis, the data was checked and cleaned using python scripts to ensure a smooth accurate result. 
 
