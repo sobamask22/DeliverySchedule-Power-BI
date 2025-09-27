@@ -16,6 +16,7 @@ This project collects raw data in Microsoft Excel and transforms it into actiona
 ### The delivery Schedule's data model is showed below. It highlights:
 - The main fact table with its columns and data types
 - Relationships to supporting tables
+
 Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
 
 <img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
