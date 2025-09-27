@@ -16,7 +16,7 @@ This project collects raw data in Microsoft Excel and transforms it into actiona
 ### The delivery Schedule's data model is showed below. It highlights:
 - The main fact table with its columns and data types
 - Relationships to supporting tables
-- Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
+Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
 
 <img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
 
@@ -28,7 +28,7 @@ Key Performance Indicators (KPIs) track total purchase costs and their monthly d
 - Month-over-Month (MoM) Purchase Cost Growth: +0.07%
 - MoM Orders Growth: +0.05%
 
-During the summer, a dip in sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to prevent stock shortages.
+During the summer, a dip in sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to replinish warehouse stock.
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
