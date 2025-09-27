@@ -7,7 +7,7 @@ The company stores stock in their warehouse and distribute it to franchisees acr
 The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, delivery times, purchase costs, and more, enabling the logistics manager and managing director to monitor performance and make data driven purchases.
 
 ### Business Problem:
-The company lacked a devlivery schedule and management system, making it very difficult to track purchase orders and delivery timelines. Relying on memory and emails to track and backlog orders was inefficient, limited accuracy, and slowed decision making.
+The company lacked a delivery schedule and management system, making it very difficult to track purchase orders and delivery timelines. Relying on memory and emails to track and backlog orders was inefficient, limited accuracy, and slowed decision making.
 
 ### Goal:
 This project collects raw data in Microsoft Excel and transforms it into actionable insights through visualizations and data modeling in Power BI. The dashboard summarizes key metrics and allows stakeholders to monitor deliveries, purchase costs, and order activity to improve planning and purchasing decisions.
