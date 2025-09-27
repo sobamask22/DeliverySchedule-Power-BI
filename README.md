@@ -27,6 +27,13 @@ The schedule shows the Month over Month (MoM) purchase cost growth of 0.07%, and
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
 
+## Recommendations:
+- Supplier Page:
+Shows information on the page based on the supplier slicer. The dashboard showed information about the supplier Minster Foods. They supply most of the toppings at very good quality. The pie chart shows how the total purchase cost split across the items sources from minster. The bar graph is used to shows the number of pallets ordered by each ofproducts across each month. The table visualizes information that may be needed for analysis. 
+
+- Category Page:
+The category Page shows the page on chilled products. It uses KPI cards to show the sum of purchase costs for all chilled products, the number of orders and which ones were late or on time. This can be very useful when considering storage spaces and orders. The line and bar chart shows the monthly performance on the products by orders and purchase cost.
+
 ## Tech Stack:
 The dashboard was built using the following tools and technologies:
 
@@ -41,3 +48,6 @@ Power Query- Used within Power BI for the data transformation and cleaning
 DAX (Data Analysis Expression)- Used to create calculated measures for KPIs and dynamic filters
 
 Data Modelling- Used within Power BI to establish relationships between tables for accurate filtering
+
+
+Personal Note:
