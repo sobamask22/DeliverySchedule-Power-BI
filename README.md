@@ -26,7 +26,6 @@ The schedule shows the Month over Month (MoM) purchase cost growth of 0.07%, and
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
-## Recommendations:
 
 ## Tech Stack:
 The dashboard was built using the following tools and technologies:
@@ -42,6 +41,3 @@ Power Query- Used within Power BI for the data transformation and cleaning
 DAX (Data Analysis Expression)- Used to create calculated measures for KPIs and dynamic filters
 
 Data Modelling- Used within Power BI to establish relationships between tables for accurate filtering
-
-
-## Personal Review:
