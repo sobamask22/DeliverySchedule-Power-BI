@@ -4,7 +4,7 @@
 ## Project Overview:
 The company stores stock in their warehouse and distribute it to franchisees across the UK. All stock is ordered from external suppliers and stored in the warehouse. Pallets are then assembled to complete franchisee orders, which are delivered by company drivers to the stores throughout the week.
 
-The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, delivery times, purchase costs, and more, enabling the logistics manager and managing director to monitor performance and make data-driven purchases.
+The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, delivery times, purchase costs, and more, enabling the logistics manager and managing director to monitor performance and make data driven purchases.
 
 ### Business Problem:
 The company lacked a devlivery schedule and management system, making it very difficult to track purchase orders and delivery timelines. Relying on memory and emails to track and backlog orders was inefficient, limited accuracy, and slowed decision making.
