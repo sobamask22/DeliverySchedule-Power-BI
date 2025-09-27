@@ -1,10 +1,7 @@
 # Project Title: Delivery Schedule Dashboard
 
-Insights Deep Dive:
 
-Recommendations:
-
-# Project Overview:
+## Project Overview:
 Fireaway Pizza store all stock in their warehouse and distribute to franchise stores every week by deliveries. All stock is ordered to the warehouse, the pallets are built per order, and delivered by company drivers and vehicles 6 days a week to various locations across the UK.
 
 The delivery schedule dashboard is a dynamic reporting solution that was designed to deliver insights on stock deliveries to the warehouse. It provides a clear interactive overview of stock delivery times, order status, categories, and country of shipping to enable the manager and managing director to monitor performances and make future decisions.
@@ -22,7 +19,7 @@ Category Comparison:
 
 Regional Comparisons:
 
-# Data Structure Overview:
+## Data Structure Overview:
 The delivery Schedule's data structure is showed below. A simple diagram showing the columns of the main fact table, the unique fact sheets derived from it and how they relate to each other.
 
 <img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
@@ -30,16 +27,23 @@ The delivery Schedule's data structure is showed below. A simple diagram showing
 
 Prior to beginning the analysis, the data was checked and cleaned using python scripts to ensure a smooth accurate result. 
 
-# Executive Summary:
-## Overview of report:
-The delivery schedule shows the total purchase cost and breaks it down into the months recorded using a simpe line graph. It also uses a map feature to show where the stock is purchased from. There are also tooltips included so when the map is hovered above, you can see the amount of orders from each country and the total purchase cost.
+## Executive Summary:
+### Overview of report:
+Key Performance Indicators shows the total purchase cost and breaks it down into the months recorded using a simpe line graph. It also uses a map feature to show where the stock is purchased from. There are also tooltips included so when the map is hovered above, you can see the amount of orders from each country and the total purchase cost.
 
 The schedule also shows the Month over Month (MoM) purchase cost growth of 0.07%, and the (MoM) individual orders growth of 0.05%. Due to a drop in sales of warehouse stock between April and June there was a surplus in some items meaning less stock was ordered. However, as business slowly picked up again, there was a gradual increase in items ordered into the warehouse to potentially preventing items running out of stock.
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
+##Trends
 
-# Tech Stack:
+
+
+## Insights Deep Dive:
+
+## Recommendations:
+
+## Tech Stack:
 The dashboard was built using the following tools and technologies:
 Microsoft Excel:
 
