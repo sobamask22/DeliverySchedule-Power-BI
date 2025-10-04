@@ -2,21 +2,22 @@
 
 
 ## Project Overview:
-The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven purchases.
+The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven purchases. The company has one warehouse where all stock is received from external suppliers. Key processes include:
 
-The company has one warehouse where all stock is received from external suppliers. Key processes include:
 - Inbound Stock: Goods are ordered from third-party suppliers and stored in the warehouse.
 - Order Assembly: Pallets are assembled to fulfill franchisee orders.
 - Outbound Delivery: Company drivers deliver stock to franchisee stores across the UK throughout the week.
 
 ### Business Problem:
 The company previously lacked a centralized delivery scheduling and management system, making it difficult to track purchase orders and delivery timelines. Operations relied heavily on memory and email threads to manage and backlog orders, resulting in:
+
 - Inefficient workflows
 - Limited data accuracy
 - Slower decision making
 
 ### Goal:
 This solution transforms raw delivery data from Microsoft Excel into actionable insights using Power BI. Through data modeling and interactive visualizations, the dashboard enables stakeholders to:
+
 - Monitor delivery schedules and order activity
 - Track purchase costs and supplier performance
 - Improve planning, purchasing decisions, and overall operational efficiency
@@ -46,12 +47,14 @@ During the summer, a dip in company sales caused a temporary slowdown in warehou
 
 ## Recommendations:
 ### Supplier Page:
+
 - Displays Minster insights using a slicer filter
 - The pie chart shows the share of total purchase cost by product
 - The bar chart highlights monthly pallet orders by product
 - The table provides detailed information for further analysis
 
 ### Category Page:
+
 - Focuses on the category chilled products
 - KPI cards summarize purchase costs, total orders, & late/on-time deliveries
 - The line and bar chart tracks monthly trends using orders and purchase costs
