@@ -47,18 +47,13 @@ During the summer, a dip in company sales caused a temporary slowdown in warehou
 ## Recommendations:
 ### Supplier Page:
 - Displays Minster insights using a slicer filter
-  
 - The pie chart shows the share of total purchase cost by product
-  
 - The bar chart highlights monthly pallet orders by product
-  
 - The table provides detailed information for further analysis
 
 ### Category Page:
 - Focuses on the category chilled products
-  
 - KPI cards summarize purchase costs, total orders, & late/on-time deliveries
-  
 - The line and bar chart tracks monthly trends using orders and purchase costs
 
 
@@ -66,15 +61,10 @@ During the summer, a dip in company sales caused a temporary slowdown in warehou
 The dashboard was built using the following tools:
 
 - Microsoft Excel: Used for initial data collection
-  
 - Python: Data cleaning and extraction of unique tables into separate CSV files for analysis
-  
 - Power BI Desktop: Main platform for data visualization and reporting
-
 - Power Query: Data transformation and preparation
-
 - DAX (Data Analysis Expressions): Creation of KPIs and dynamic filters
-
 - Data Modeling: Establishing relationships between tables for accurate filtering
 
 
