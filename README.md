@@ -2,15 +2,25 @@
 
 
 ## Project Overview:
-The company stores stock in their warehouse and distribute it to franchisees across the UK. All stock is ordered from external suppliers and stored in the warehouse. Pallets are then assembled to complete franchisee orders, which are delivered by company drivers to the stores throughout the week.
+The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven purchases.
 
-The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, delivery times, purchase costs, and more, enabling the logistics manager and managing director to monitor performance and make data driven purchases.
+The company has one warehouse where all stock is received from external suppliers. Key processes include:
+- Inbound Stock: Goods are ordered from third-party suppliers and stored in the warehouse.
+- Order Assembly: Pallets are assembled to fulfill franchisee orders.
+- Outbound Delivery: Company drivers deliver stock to franchisee stores across the UK throughout the week.
 
 ### Business Problem:
-The company lacked a delivery schedule and management system, making it very difficult to track purchase orders and delivery timelines. Relying on memory and emails to track and backlog orders was inefficient, limited accuracy, and slowed decision making.
+The company previously lacked a centralized delivery scheduling and management system, making it difficult to track purchase orders and delivery timelines. Operations relied heavily on memory and email threads to manage and backlog orders, resulting in:
+- Inefficient workflows
+- Limited data accuracy
+- Slower decision making
 
 ### Goal:
-This project collects raw data in Microsoft Excel and transforms it into actionable insights through visualizations and data modeling in Power BI. The dashboard summarizes key metrics and allows stakeholders to monitor deliveries, purchase costs, and order activity to improve planning and purchasing decisions.
+This solution transforms raw delivery data from Microsoft Excel into actionable insights using Power BI. Through data modeling and interactive visualizations, the dashboard enables stakeholders to:
+- Monitor delivery schedules and order activity
+- Track purchase costs and supplier performance
+- Improve planning, purchasing decisions, and overall operational efficiency
+
 
 ## Data Structure Overview:
 ### The delivery Schedule's data model is showed below. It highlights:
@@ -44,7 +54,6 @@ During the summer, a dip in company sales caused a temporary slowdown in warehou
   
 - The table provides detailed information for further analysis
 
-
 ### Category Page:
 - Focuses on the category chilled products
   
@@ -70,11 +79,7 @@ The dashboard was built using the following tools:
 
 
 ## Personal Note:
-- This was a simple visualization project based on data collected during my role as a Logistics Assistant.
-  
-- At the time, I was new to the role and saw Excel as an efficient way to store and organize delivery data.
-  
-- As I gathered more data, I gradually added new features to improve analysis.
-  
-- The dataset covers a short time period, so the report is limited in historical depth but demonstrates core reporting capabilities.
-
+- This project began as a simple visualization exercise, built from delivery data I collected during my time as a Logistics Assistant
+- At the time, I was new to the role and used Microsoft Excel as a practical tool to store and organize delivery records
+- As I gained experience and accumulated more data, I gradually introduced new features to enhance analysis and reporting
+- While the dataset spans a short time period, the dashboard effectively demonstrates core reporting capabilities
