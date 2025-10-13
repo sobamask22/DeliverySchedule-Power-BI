@@ -63,17 +63,24 @@ This report visualizes key metrics to support strategic decision making across s
 <img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/c313ea6d-d111-4e72-8770-2de006364e37" />
 
 ### Supplier Page:
-
 - Displays Minster insights using a slicer filter
+  
 - The pie chart shows the share of total purchase cost by product
+  
 - The bar chart highlights monthly pallet orders by product
+  
 - The table provides detailed information for further analysis
 
-### Category Page:
+<img width="1150" height="645" alt="image" src="https://github.com/user-attachments/assets/1bc30f05-0e30-4b96-8209-5bc7d29bed86" />
 
+### Category Page:
 - Focuses on the category chilled products
+  
 - KPI cards summarize purchase costs, total orders, & late/on-time deliveries
+  
 - The line and bar chart tracks monthly trends using orders and purchase costs
+
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/beecd25c-145b-450a-8486-90fc2a77bb6c" />
 
 ### Highlights
 - Month-over-Month Purchase Cost Growth: +0.07%
@@ -82,19 +89,28 @@ This report visualizes key metrics to support strategic decision making across s
   
 During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
 
+
 ## Tech Stack:
 The dashboard was built using the following tools:
 
 - Microsoft Excel: Used for initial data collection
+  
 - Python: Data cleaning and extraction of unique tables into separate CSV files for analysis
+  
 - Power BI Desktop: Main platform for data visualization and reporting
+  
 - Power Query: Data transformation and preparation
+  
 - DAX (Data Analysis Expressions): Creation of KPIs and dynamic filters
+  
 - Data Modeling: Establishing relationships between tables for accurate filtering
 
 
 ## Personal Note:
 - This project began as a simple visualization exercise, built from delivery data I collected during my time as a Logistics Assistant
+  
 - At the time, I was new to the role and used Microsoft Excel as a practical tool to store and organize delivery records
+  
 - As I gained experience and accumulated more data, I gradually introduced new features to enhance analysis and reporting
+  
 - While the dataset spans a short time period, the dashboard effectively demonstrates core reporting capabilities
