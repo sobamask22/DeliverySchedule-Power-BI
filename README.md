@@ -1,25 +1,32 @@
 # Project Title: Delivery Schedule Dashboard
 
-
 ## Project Overview:
 The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven purchases. The company has one warehouse where all stock is received from external suppliers. Key processes include:
 
-- Inbound Stock: Goods are ordered from third-party suppliers and stored in the warehouse.
-- Order Assembly: Pallets are assembled to fulfill franchisee orders.
-- Outbound Delivery: Company drivers deliver stock to franchisee stores across the UK throughout the week.
+- **Inbound Stock:** Goods are ordered from third-party suppliers and stored in the warehouse
+  
+- **Order Assembly:** Pallets are assembled to fulfill franchisee orders
+  
+- **Outbound Delivery:** Company drivers distribute stock to franchisee stores across the UK throughout the week
 
 ### Business Problem:
-The company previously lacked a centralized delivery scheduling and management system, making it difficult to track purchase orders and delivery timelines. Operations relied heavily on memory and email threads to manage and backlog orders, resulting in:
+The company lacked a centralized management system for delivery schedules and purchase orders, making it difficult to keep track. Operations were heavily reliant on memory and email threads, leading to:
 
-- Inefficient workflows
-- Limited data accuracy
-- Slower decision making
+- **Inefficient workflows:** Uncertainty around what had been ordered made it difficult to retrieve information when requested by the logistics manager or managing director. This created delays and confusion in day-to-day operations
+  
+- **Inaccurate or Limited data:** The warehouse has limited storage capacity, making it essential to know what stock is in transit, its quantity, and expected arrival dates. Without reliable data, the warehouse manager struggled to plan effectively and allocate space
+  
+- **Slower decision making:** Purchase decisions were often delayed due to a lack of visibility into incoming stock. Overstocking posed a serious risk by consuming warehouse space and disrupting inventory flow. This issue is critical for chilled and frozen items, which could spoil and result in financial losses
 
-### Goal:
-This solution transforms raw delivery data from Microsoft Excel into actionable insights using Power BI. Through data modeling and interactive visualizations, the dashboard enables stakeholders to:
+### Solution:
+This Power BI solution transforms raw delivery data from Microsoft Excel into actionable insights. Through robust data modeling and interactive visualizations, the dashboard enables stakeholders to:
 
-- Monitor delivery schedules and order activity
-- Track purchase costs and supplier performance
+- Track delivery schedules and order activity
+  
+- Monitor purchase costs and supplier performance
+
+- Track price changes and quantity ordered over time
+  
 - Improve planning, purchasing decisions, and overall operational efficiency
 
 
