@@ -54,26 +54,14 @@ This report visualizes key metrics to support strategic decision making across s
 - **Top 10 items by purchase cost:** The table is filtered to display the top 10 items ranked by highest total purchase cost. Metrics shown are total purchase cost, total individual orders and quantity in pallets
   
 - **Kpi Cards Overview:**
-Total Purchase Cost: £4.54M worth of items delivered into the warehouse
+  Total Purchase Cost: £4.54M worth of items delivered into the warehouse
   
-Total Orders: 563 individual purchase orders processed
+  Total Orders: 563 individual purchase orders processed
   
-Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
+  Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
 
-During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
-  
-### Highlights
-- Month-over-Month Purchase Cost Growth: +0.07%
-  
-- Month-over-Month Orders Growth: +0.05%
-  
-- 
+<img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/c313ea6d-d111-4e72-8770-2de006364e37" />
 
-
-<img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
-
-
-## Recommendations:
 ### Supplier Page:
 
 - Displays Minster insights using a slicer filter
@@ -87,6 +75,12 @@ During the summer period, a dip in company sales led to reduced warehouse orders
 - KPI cards summarize purchase costs, total orders, & late/on-time deliveries
 - The line and bar chart tracks monthly trends using orders and purchase costs
 
+### Highlights
+- Month-over-Month Purchase Cost Growth: +0.07%
+  
+- Month-over-Month Orders Growth: +0.05%
+  
+During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
 
 ## Tech Stack:
 The dashboard was built using the following tools:
