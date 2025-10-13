@@ -19,7 +19,7 @@ The company lacked a centralized management system for delivery schedules and pu
 - **Slower decision making:** Purchase decisions were often delayed due to a lack of visibility into incoming stock. Overstocking posed a serious risk by consuming warehouse space and disrupting inventory flow. This issue is critical for chilled and frozen items, which could spoil and result in financial losses
 
 ### Solution:
-This Power BI solution transforms raw delivery data from Microsoft Excel into actionable insights. Through robust data modeling and interactive visualizations, the dashboard enables stakeholders to:
+This Power BI solution transforms raw delivery data from Microsoft Excel into actionable insights. Through robust data modeling and interactive visualizations, the dashboard enables the logistics manager and managing director to:
 
 - Track delivery schedules and order activity
   
