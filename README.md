@@ -43,7 +43,7 @@ Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Q
 
 ## Executive Summary:
 ### Overview Page
-This report visualizes key metrics to support strategic decision making across supply chain operations.
+This report visualizes key metrics to support strategic decision making across operations.
 
 - **Purchase Cost Trends:** A line graph tracks total purchase costs and their monthly distribution, enabling quick identification of seasonal fluctuations and spending patterns
 
