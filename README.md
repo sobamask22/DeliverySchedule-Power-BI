@@ -45,7 +45,7 @@ Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Q
 ### Overview Page
 This report visualizes key metrics to support strategic decision making across operations.
 
-- **Purchase Cost Trends:** A line graph tracks total purchase costs and their monthly distribution, enabling quick identification of seasonal fluctuations and spending patterns
+- **Purchase Cost Trends:** A line graph tracks total purchase costs and their monthly distribution, enabling quick identification of spending patterns
 
 - **Order Distribution by Category:** The pie chart illustrates how the total purchase orders are split across different categories. This visual breakdown helps identify which categories are more popular than others
 
