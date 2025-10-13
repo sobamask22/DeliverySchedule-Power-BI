@@ -30,20 +30,9 @@ This Power BI solution transforms raw delivery data from Microsoft Excel into ac
 - Improve planning, purchasing decisions, and overall operational efficiency
 
 
-## Data Structure Overview:
-### The delivery Schedule's data model is showed below. It highlights:
-- The main fact table with its columns and data types
-  
-- Relationships to supporting tables
-
-Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
-
-<img width="1201" height="619" alt="image" src="https://github.com/user-attachments/assets/9fe98617-c894-4ce5-98ca-9a8b75d47fc6" />
-
-
 ## Executive Summary:
 ### Overview Page
-This report visualizes key metrics to support strategic decision making across operations.
+This report visualizes key metrics to support strategic decision making across operations. During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
 
 - **Purchase Cost Trends:** The line graph tracks total purchase costs and their monthly distribution, enabling quick identification of spending patterns
 
@@ -79,21 +68,14 @@ This page provides a focused view of supplier performance and purchasing trends,
 This page provides a focused analysis of chilled product procurement, combining visual insights with performance metrics:
 
 -  KPI Summary: Cards present key metrics including total purchase cost, number of orders, and delivery performance (on-time vs. late).
--  
+  
 - **Category Focus:** All visuals and metrics are filtered to highlight chilled product purchases. The filter can be adjusted to view any category.
 
 - **Top Products:** A bar chart displays the top 3 chilled products by total purchase volume, spotlighting the change in volume per month
 
-- **Monthly Trends:** A combined line and bar chart tracks month-over-month changes in order volume and purchase cost.
+- **Monthly Trends:** A combined line and bar chart tracks month over month changes in order volume and purchase cost
 
-<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/beecd25c-145b-450a-8486-90fc2a77bb6c" />
-
-### Highlights
-- Month-over-Month Purchase Cost Growth: +0.07%
-  
-- Month-over-Month Orders Growth: +0.05%
-  
-During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
+<img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/92197826-a077-4537-a9f6-f469bac3571c" />
 
 
 ## Tech Stack:
