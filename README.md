@@ -12,7 +12,7 @@ The Delivery Schedule Dashboard is a dynamic reporting solution designed to prov
 ### Business Problem:
 The company lacked a centralized management system for delivery schedules and purchase orders, making it difficult to keep track. Operations were heavily reliant on memory and email threads, leading to:
 
-- **Inefficient workflows:** Uncertainty around what had been ordered made it difficult to retrieve information when requested by the logistics manager or managing director. This created delays and confusion in day-to-day operations
+- **Inefficient workflows:** Uncertainty around what had been ordered made it difficult to retrieve information when requested by the logistics manager or managing director. This created delays and confusion in day to day operations
   
 - **Inaccurate or Limited data:** The warehouse has limited storage capacity, making it essential to know what stock is in transit, its quantity, and expected arrival dates. Without reliable data, the warehouse manager struggled to plan effectively and allocate space
   
