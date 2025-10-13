@@ -45,20 +45,20 @@ Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Q
 ### Overview Page
 This report visualizes key metrics to support strategic decision making across operations.
 
-- **Purchase Cost Trends:** A line graph tracks total purchase costs and their monthly distribution, enabling quick identification of spending patterns
+- **Purchase Cost Trends:** The line graph tracks total purchase costs and their monthly distribution, enabling quick identification of spending patterns
 
 - **Order Distribution by Category:** The pie chart illustrates how the total purchase orders are split across different categories. This visual breakdown helps identify which categories are more popular than others
 
-- **Supplier Distribution:** An interactive map highlights supplier locations, with tooltips displaying total orders and purchase costs per country, offering geographic insights into sourcing
+- **Supplier Distribution:** The interactive map highlights supplier locations, with tooltips displaying total orders and purchase costs per country, offering geographic insights into sourcing
 
 - **Top 10 items by purchase cost:** The table is filtered to display the top 10 items ranked by highest total purchase cost. Metrics shown are total purchase cost, total individual orders and quantity in pallets
   
 - **Kpi Cards Overview:**
   - Total Purchase Cost: £4.54M worth of items delivered into the warehouse
   
-  - Total Orders: 563 individual purchase orders processed
+  - Total Orders: 563 individual purchase orders were processed
   
-  - Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
+  - Delivery Performance: 89.2% of orders arrived on time, while 10.8% were late
 
 <img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/c313ea6d-d111-4e72-8770-2de006364e37" />
 
