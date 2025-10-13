@@ -75,7 +75,7 @@ This page provides a focused analysis of chilled product procurement, combining 
 
 - **Monthly Trends:** A combined line and bar chart tracks month over month changes in order volume and purchase cost
 
-<img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/92197826-a077-4537-a9f6-f469bac3571c" />
+<img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/f789332f-32fb-43d5-b370-f3b969575c25" />
 
 
 ## Tech Stack:
