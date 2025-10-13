@@ -54,11 +54,11 @@ This report visualizes key metrics to support strategic decision making across s
 - **Top 10 items by purchase cost:** The table is filtered to display the top 10 items ranked by highest total purchase cost. Metrics shown are total purchase cost, total individual orders and quantity in pallets
   
 - **Kpi Cards Overview:**
-  Total Purchase Cost: £4.54M worth of items delivered into the warehouse
+  - Total Purchase Cost: £4.54M worth of items delivered into the warehouse
   
-  Total Orders: 563 individual purchase orders processed
+  - Total Orders: 563 individual purchase orders processed
   
-  Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
+  - Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
 
 <img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/c313ea6d-d111-4e72-8770-2de006364e37" />
 
