@@ -63,22 +63,28 @@ This report visualizes key metrics to support strategic decision making across s
 <img width="1148" height="652" alt="image" src="https://github.com/user-attachments/assets/c313ea6d-d111-4e72-8770-2de006364e37" />
 
 ### Supplier Page:
-- Displays Minster insights using a slicer filter
+This page provides a focused view of supplier performance and purchasing trends, with dynamic filtering and visual insights.
+
+- **Minster Insights:** A slicer filter enables users to isolate and explore Minster-specific data for targeted analysis. The filter can also be applied to view other suppliers
   
-- The pie chart shows the share of total purchase cost by product
+- **Purchase Cost Breakdown:** A pie chart visualizes the share of total purchase cost of categories, highlighting high and low spend categories at a glance
+
+- **Monthly Pallet Orders:** A bar chart tracks pallet order volumes by product over time, revealing how the products were ordered over the months
   
-- The bar chart highlights monthly pallet orders by product
-  
-- The table provides detailed information for further analysis
+- **Purchase Cost Trend:** A line chart illustrates month-over-month fluctuations in total purchase cost, helping identify periods of increased or reduced spend.
 
 <img width="1150" height="645" alt="image" src="https://github.com/user-attachments/assets/1bc30f05-0e30-4b96-8209-5bc7d29bed86" />
 
 ### Category Page:
-- Focuses on the category chilled products
-  
-- KPI cards summarize purchase costs, total orders, & late/on-time deliveries
-  
-- The line and bar chart tracks monthly trends using orders and purchase costs
+This page provides a focused analysis of chilled product procurement, combining visual insights with performance metrics:
+
+-  KPI Summary: Cards present key metrics including total purchase cost, number of orders, and delivery performance (on-time vs. late).
+-  
+- **Category Focus:** All visuals and metrics are filtered to highlight chilled product purchases. The filter can be adjusted to view any category.
+
+- **Top Products:** A bar chart displays the top 3 chilled products by total purchase volume, spotlighting the change in volume per month
+
+- **Monthly Trends:** A combined line and bar chart tracks month-over-month changes in order volume and purchase cost.
 
 <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/beecd25c-145b-450a-8486-90fc2a77bb6c" />
 
@@ -113,4 +119,4 @@ The dashboard was built using the following tools:
   
 - As I gained experience and accumulated more data, I gradually introduced new features to enhance analysis and reporting
   
-- While the dataset spans a short time period, the dashboard effectively demonstrates core reporting capabilities
+- While the dataset spans a short time period, the dashboard demonstrates core reporting capabilities
