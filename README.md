@@ -33,6 +33,7 @@ This Power BI solution transforms raw delivery data from Microsoft Excel into ac
 ## Data Structure Overview:
 ### The delivery Schedule's data model is showed below. It highlights:
 - The main fact table with its columns and data types
+  
 - Relationships to supporting tables
 
 Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Query before analysis. 
@@ -41,13 +42,31 @@ Data was cleaned and prepared using Microsoft Excel, Python scripts, and Power Q
 
 
 ## Executive Summary:
-Key Performance Indicators (KPIs) track total purchase costs and their monthly distribution through a simple line graph. A map visual identifies supplier locations, with interactive tooltips showing total orders and purchase costs per country.
+### Overview Page
+This report visualizes key metrics to support strategic decision making across supply chain operations.
 
-### Highlights:
-- Month-over-Month (MoM) Purchase Cost Growth: +0.07%
-- MoM Orders Growth: +0.05%
+- **Purchase Cost Trends:** A line graph tracks total purchase costs and their monthly distribution, enabling quick identification of seasonal fluctuations and spending patterns.
 
-During the summer, a dip in company sales caused a temporary slowdown in warehouse activity. As demand recovered, franchisees increased orders, prompting higher purchase volumes to replinish warehouse stock.
+- **Supplier Distribution:** An interactive map highlights supplier locations, with tooltips displaying total orders and purchase costs per country, offering geographic insights into sourcing
+
+- **Top 10 items by purchase cost:** The table is filtered to display the top 10 items ranked by highest total purchase cost. Metrics shown are total purchase cost, total individual orders and quantity in pallets.
+  
+- **Kpi Cards Overview:**
+- Total Purchase Cost: £4.54M worth of items delivered into the warehouse
+  
+- Total Orders: 563 individual purchase orders processed
+  
+- Delivery Performance: 89.2% of orders arrived on time, while 10.8% were delayed
+
+During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
+  
+### Highlights
+- Month-over-Month Purchase Cost Growth: +0.07%
+  
+- Month-over-Month Orders Growth: +0.05%
+  
+- 
+
 
 <img width="1281" height="718" alt="image" src="https://github.com/user-attachments/assets/5ab6719e-3898-4c14-ad73-c9ae4588b43b" />
 
