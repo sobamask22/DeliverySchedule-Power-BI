@@ -69,9 +69,9 @@ This page provides a focused view of supplier performance and purchasing trends,
   
 - **Purchase Cost Breakdown:** A pie chart visualizes the share of total purchase cost of categories, highlighting high and low spend categories at a glance
 
-- **Monthly Pallet Orders:** A bar chart tracks pallet order volumes by product over time, revealing how the products were ordered over the months
+- **Monthly Pallet Orders:** A bar chart tracks pallet order volumes by product over time
   
-- **Purchase Cost Trend:** A line chart illustrates month-over-month fluctuations in total purchase cost, helping identify periods of increased or reduced spend.
+- **Purchase Cost Trend:** A line chart illustrates month over month fluctuations in total purchase cost, helping identify periods of increased or reduced spend.
 
 <img width="1150" height="645" alt="image" src="https://github.com/user-attachments/assets/1bc30f05-0e30-4b96-8209-5bc7d29bed86" />
 
