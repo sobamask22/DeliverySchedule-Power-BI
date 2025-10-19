@@ -35,6 +35,10 @@ I collected the dataset myself, which allowed me to define and structure the dat
 
 For data modelling, I used Python scripts in Visual Studio Code to automate the extraction of unique values and generate unique tables. This ensured a clean structure suitable for analysis in Power BI.
 
+<img width="1611" height="479" alt="image" src="https://github.com/user-attachments/assets/1b9a88ae-2b5e-4e35-9d5a-67710e648b78" />
+
+<img width="1296" height="881" alt="image" src="https://github.com/user-attachments/assets/544fb2c7-1076-4064-aebb-d9d9bdbada30" />
+
 I selected Power BI as the primary analytics tool due to its seamless integration with our existing Microsoft 365 environment and its cost effectiveness. Given the department’s budget constraints and reluctance to invest in additional software, Power BI was the most practical choice. It offered robust visualization capabilities at no extra cost.
 
 
