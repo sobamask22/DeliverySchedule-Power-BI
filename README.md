@@ -1,7 +1,7 @@
 # Project Title: Delivery Schedule Dashboard
 
 ## Project Overview:
-The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven decisions. The company has one warehouse where all stock is received from external suppliers. Key processes include:
+The Delivery Schedule Dashboard is a dynamic reporting solution designed to provide clear and interactive insights into stock deliveries. It offers visibility into products, quantities, delivery times, purchase costs, supplier performance and more. This enables the logistics manager and managing director to monitor operational performance and make data driven decisions. The company has one warehouse where all stock is received from external suppliers and stored. Key processes include:
 
 - **Inbound Stock:** Goods are ordered from third-party suppliers and stored in the warehouse
   
