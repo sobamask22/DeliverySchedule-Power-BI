@@ -33,8 +33,6 @@ This Power BI solution transforms raw delivery data from Microsoft Excel into ac
 ## Data Preparation and Modelling
 I collected the dataset myself, which allowed me to define and structure the data from the start. I added necessary fields to the main table and created separate sheets & tables for key attributes such as Product, Category, and Supplier. This approach enforced adding a value to the cell and eliminated the possibility of null values in those critical columns.
 
-While some fields like Order ID and Notes contained missing values, their relevance wasn’t exaggerated because they weren’t going to be analysed.
-
 For data modelling, I used Python scripts in Visual Studio Code to automate the extraction of unique values and generate unique tables. This ensured a clean structure suitable for analysis in Power BI.
 
 I selected Power BI as the primary analytics tool due to its seamless integration with our existing Microsoft 365 environment and its cost effectiveness. Given the department’s budget constraints and reluctance to invest in additional software, Power BI was the most practical choice. It offered robust visualization capabilities at no extra cost.
