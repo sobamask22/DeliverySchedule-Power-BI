@@ -28,7 +28,8 @@ This Power BI solution transforms raw delivery data from Microsoft Excel into ac
 - Track price changes and quantity ordered over time
   
 - Improve planning, purchasing decisions, and overall operational efficiency
-
+  
+<br>
 
 ## Data Preparation and Modelling
 I collected the dataset myself, which allowed me to define and structure the data from the start. I added necessary fields to the main table and created separate sheets & tables for key attributes such as Product, Category, and Supplier. This approach enforced adding a value to the cell and eliminated the possibility of null values in those critical columns.
@@ -41,6 +42,7 @@ For data modelling, I used Python scripts in Visual Studio Code to automate the 
 
 I selected Power BI as the primary analytics tool due to its seamless integration with our existing Microsoft 365 environment and its cost effectiveness. Given the department’s budget constraints and reluctance to invest in additional software, Power BI was the most practical choice. It offered robust visualization capabilities at no extra cost.
 
+<br>
 
 ## Executive Summary:
 ### Overview Page
@@ -89,6 +91,7 @@ This page provides a focused analysis of chilled product procurement, combining 
 
 <img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/f789332f-32fb-43d5-b370-f3b969575c25" />
 
+<br>
 
 ## Data Source
 When undertaking the project, I chose Microsoft Excel over other data collection tools for several practical and strategic reasons:
@@ -101,6 +104,7 @@ When undertaking the project, I chose Microsoft Excel over other data collection
 
 **Offline access:** Data could be collected offline and synced later when internet access was available. For cloud collaboration, we used Excel Online and Google Sheets, enabling multiple users to work on the same document simultaneously from different locations.
 
+<br>
 
 ## Tech Stack:
 The dashboard was built using the following tools:
@@ -117,12 +121,14 @@ The dashboard was built using the following tools:
   
 - Data Modeling: Establishing relationships between tables for accurate filtering
 
+<br>
 
 ## Challenges Faced
 One of the biggest challenges was initial data collection. As the project evolved, I realized additional columns such as Price and Order Late? were essential for deeper insights.
 
 Another recurring issue was inconsistent data entry. Despite clear instructions to fill in every cell, some contributors bypassed this, leaving gaps in the dataset. During periods when I was away on holiday, I often returned to find missing or incomplete entries. Chasing down the missing information proved difficult, as many colleagues either didn’t recall the details or hadn’t recorded them properly. 
 
+<br>
 
 ## Personal Note:
 - This project began as a simple visualization exercise, built from delivery data I collected during my time as a Logistics Assistant
