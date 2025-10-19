@@ -30,6 +30,16 @@ This Power BI solution transforms raw delivery data from Microsoft Excel into ac
 - Improve planning, purchasing decisions, and overall operational efficiency
 
 
+## Data Preparation and Modelling
+I collected the dataset myself, which allowed me to define and structure the data from the start. I added necessary fields to the main table and created separate sheets & tables for key attributes such as Product, Category, and Supplier. This approach enforced adding a value to the cell and eliminated the possibility of null values in those critical columns.
+
+While some fields like Order ID and Notes contained missing values, their relevance wasn’t exaggerated because they weren’t going to be analysed.
+
+For data modelling, I used Python scripts in Visual Studio Code to automate the extraction of unique values and generate unique tables. This ensured a clean structure suitable for analysis in Power BI.
+
+I selected Power BI as the primary analytics tool due to its seamless integration with our existing Microsoft 365 environment and its cost effectiveness. Given the department’s budget constraints and reluctance to invest in additional software, Power BI was the most practical choice. It offered robust visualization capabilities at no extra cost.
+
+
 ## Executive Summary:
 ### Overview Page
 This report visualizes key metrics to support strategic decision making across operations. During the summer period, a dip in company sales led to reduced warehouse orders. As demand rebounded, franchisees responded with increased order volumes, driving a corresponding rise in purchase activity to replenish stock levels and restore operational momentum.
@@ -78,6 +88,17 @@ This page provides a focused analysis of chilled product procurement, combining 
 <img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/f789332f-32fb-43d5-b370-f3b969575c25" />
 
 
+## Data Source
+When undertaking the project, I chose Microsoft Excel over other data collection tools for several practical and strategic reasons:
+**No extra cost:** Our company already had an active Office 365 subscription, which included full access to Microsoft Excel. This eliminated the need to use additional software, keeping costs down and simplifying deployment.
+
+**Familiarity:** Microsoft Excel was a universally familiar tool among staff, making it easy to share, view, and collaboratively edit data. Introducing a new platform would have required training sessions and onboarding time, which would slow down operations.
+
+**Flexibility and Customization:** Microsoft Excel allowed us to design tables that matched our specific data collection needs. I embedded formulas to generate metrics and apply conditional formatting for visual cues, all without writing additional code.
+
+**Offline access:** Data could be collected offline and synced later when internet access was available. For cloud collaboration, we used Excel Online and Google Sheets, enabling multiple users to work on the same document simultaneously from different locations.
+
+
 ## Tech Stack:
 The dashboard was built using the following tools:
 
@@ -92,6 +113,11 @@ The dashboard was built using the following tools:
 - DAX (Data Analysis Expressions): Creation of KPIs and dynamic filters
   
 - Data Modeling: Establishing relationships between tables for accurate filtering
+
+
+## Challenges Faced
+One of the biggest challenges was initial data collection. As the project evolved, I realized additional columns such as Price and Order Late? were essential for deeper insights.
+Another recurring issue was inconsistent data entry. Despite clear instructions to fill in every cell, some contributors bypassed this, leaving gaps in the dataset. During periods when I was away on holiday, I often returned to find missing or incomplete entries. Chasing down the missing information proved difficult, as many colleagues either didn’t recall the details or hadn’t recorded them properly. 
 
 
 ## Personal Note:
