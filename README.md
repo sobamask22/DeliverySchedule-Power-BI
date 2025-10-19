@@ -116,6 +116,7 @@ The dashboard was built using the following tools:
 
 ## Challenges Faced
 One of the biggest challenges was initial data collection. As the project evolved, I realized additional columns such as Price and Order Late? were essential for deeper insights.
+
 Another recurring issue was inconsistent data entry. Despite clear instructions to fill in every cell, some contributors bypassed this, leaving gaps in the dataset. During periods when I was away on holiday, I often returned to find missing or incomplete entries. Chasing down the missing information proved difficult, as many colleagues either didn’t recall the details or hadn’t recorded them properly. 
 
 
