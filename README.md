@@ -79,7 +79,7 @@ This page provides a focused analysis of chilled product procurement, combining 
   
 - **Category Focus:** All visuals and metrics are filtered to highlight chilled product purchases. The filter can be adjusted to view any category.
 
-- **Top Products:** A bar chart displays the top 3 chilled products by total purchase volume, spotlighting the change in volume per month
+- **Top Products:** A bar chart displays the top 3 chilled products by total purchase volume
 
 - **Monthly Trends:** A combined line and bar chart tracks month over month changes in order volume and purchase cost
 
