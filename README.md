@@ -88,6 +88,7 @@ This page provides a focused analysis of chilled product procurement, combining 
 
 ## Data Source
 When undertaking the project, I chose Microsoft Excel over other data collection tools for several practical and strategic reasons:
+
 **No extra cost:** Our company already had an active Office 365 subscription, which included full access to Microsoft Excel. This eliminated the need to use additional software, keeping costs down and simplifying deployment.
 
 **Familiarity:** Microsoft Excel was a universally familiar tool among staff, making it easy to share, view, and collaboratively edit data. Introducing a new platform would have required training sessions and onboarding time, which would slow down operations.
