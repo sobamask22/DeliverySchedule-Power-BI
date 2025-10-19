@@ -64,7 +64,7 @@ This page provides a focused view of supplier performance and purchasing trends,
 
 - **Minster Insights:** A slicer filter enables users to isolate and explore Minster-specific data for targeted analysis. The filter can also be applied to view other suppliers
   
-- **Purchase Cost Breakdown:** A pie chart visualizes the share of total purchase cost of categories, highlighting high and low spend categories at a glance
+- **Purchase Cost Breakdown:** A pie chart visualizes the share of total purchase cost of products, highlighting high and low spend products at a glance
 
 - **Monthly Pallet Orders:** A bar chart tracks pallet order volumes by product over time
   
