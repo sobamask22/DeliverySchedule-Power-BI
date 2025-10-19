@@ -10,7 +10,7 @@ The Delivery Schedule Dashboard is a dynamic reporting solution designed to prov
 - **Outbound Delivery:** Company drivers distribute stock to franchisee stores across the UK throughout the week
 
 ### Business Problem:
-The company lacked a centralized management system for delivery schedules and purchase orders, making it difficult to keep track. Operations were heavily reliant on memory and email threads, leading to:
+The company lacked a management system for delivery schedules and purchase orders, making it difficult to keep track. Operations were heavily reliant on memory and email threads, leading to:
 
 - **Inefficient workflows:** Uncertainty around what had been ordered made it difficult to retrieve information when requested by the logistics manager or managing director. This created delays and confusion in day to day operations
   
