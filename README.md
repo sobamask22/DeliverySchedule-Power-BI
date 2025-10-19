@@ -93,7 +93,7 @@ When undertaking the project, I chose Microsoft Excel over other data collection
 
 **Familiarity:** Microsoft Excel was a universally familiar tool among staff, making it easy to share, view, and collaboratively edit data. Introducing a new platform would have required training sessions and onboarding time, which would slow down operations.
 
-**Flexibility and Customization:** Microsoft Excel allowed us to design tables that matched our specific data collection needs. I embedded formulas to generate metrics and apply conditional formatting for visual cues, all without writing additional code.
+**Flexibility and Customization:** Microsoft Excel allowed us to design tables that matched our specific data collection needs. I embedded formulas to generate metrics and applied conditional formatting for visual cues, all without writing additional code.
 
 **Offline access:** Data could be collected offline and synced later when internet access was available. For cloud collaboration, we used Excel Online and Google Sheets, enabling multiple users to work on the same document simultaneously from different locations.
 
