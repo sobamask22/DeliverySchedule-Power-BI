@@ -21,7 +21,7 @@ The company lacked a management system for delivery schedules and purchase order
 ### Solution:
 This Power BI solution transforms raw delivery data from Microsoft Excel into actionable insights. Through robust data modeling and interactive visualizations, the dashboard enables the logistics manager and managing director to:
 
-- Track delivery schedules and order activity
+- Track deliveries and order activity
   
 - Monitor purchase costs and supplier performance
 
