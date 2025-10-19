@@ -5,7 +5,7 @@ The Delivery Schedule Dashboard is a dynamic reporting solution designed to prov
 
 - **Inbound Stock:** Goods are ordered from third-party suppliers and stored in the warehouse
   
-- **Order Assembly:** Pallets are assembled to fulfill franchisee orders
+- **Order Assembly:** Pallets are assembled to fulfill franchisee orders by warehouse staff
   
 - **Outbound Delivery:** Company drivers distribute stock to franchisee stores across the UK throughout the week
 
